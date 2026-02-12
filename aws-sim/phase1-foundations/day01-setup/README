@@ -1,0 +1,23 @@
+- Installed Terraform:
+- Installed AWS CLI:
+- Configured Git:
+- Initialized GitHub repository.
+
+- Installed LocalStack for AWS simulation.
+
+## Validation
+
+- Verified CLI tools responded correctly.
+- Successfully authenticated to GitHub.
+- LocalStack started without errors.
+
+## Issues & Resolutions
+
+| Issue | Cause | Resolution |
+|-------|-------|------------|
+| CLI not found | PATH misconfig | Updated environment variables |
+| Git auth error | Missing token | Created GitHub PAT |
+
+## Outcome
+
+Fully functional lab environment ready for multi-cloud simulation and automation.
